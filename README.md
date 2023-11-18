@@ -12,8 +12,7 @@
 ## 仓库目录
 
 - [RapidCMS](https://github.com/OpenRapid/RapidCMS): 我们的主要项目，一个现代化的内容管理系统。
-
-- [其他项目]: 其他一些由我们团队维护的开源项目。
+- 其他项目
 
 ## 如何贡献
 
@@ -28,7 +27,6 @@
 
 关注我们的社交媒体以获取最新的更新和动态：
 
-- Github: [@OpenRapidTeam](https://github.com/OpenRapid)
-- [其他社交媒体]: 其他社交媒体账号
+- Github: [@OpenRapid](https://github.com/OpenRapid)
 
 感谢您对OpenRapid Team的支持！
