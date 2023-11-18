@@ -8,12 +8,14 @@
 
 [RapidCMS](https://github.com/OpenRapid/RapidCMS) 是我们团队的骄傲之作，一个快速、灵活且易于使用的内容管理系统。它致力于简化搭建个人官网的过程，让开发者更加投入于内容。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=OpenRapid/RapidCMS&type=Date)](https://star-history.com/#OpenRapid/RapidCMS&Date)
 
 ## 仓库目录
 
 - [RapidCMS](https://github.com/OpenRapid/RapidCMS): 我们的主要项目，一个现代化的内容管理系统。
 - 其他项目
-![RapidCMS Stars](https://star-history.com/#OpenRapid/RapidCMS&Date)
 
 ## 如何贡献
 
