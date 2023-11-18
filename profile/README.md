@@ -13,6 +13,7 @@
 
 - [RapidCMS](https://github.com/OpenRapid/RapidCMS): 我们的主要项目，一个现代化的内容管理系统。
 - 其他项目
+![RapidCMS Stars](https://star-history.com/#OpenRapid/RapidCMS&Date)
 
 ## 如何贡献
 
