@@ -12,7 +12,7 @@
 2. 参与讨论：在 [Discussions]中加入我们的讨论，分享你的想法和经验。
 3. 提交 Pull Request：如果你有修复 Bug 或增加功能的代码，欢迎提交 Pull Request。
 
-## Github
-- Github: [@OpenRapid](https://github.com/OpenRapid)
+## Gitee
+- Gitee: [@OpenRapid](https://gitee.com/rapid---open-source)
 
 感谢您对OpenRapid Team的支持！
