@@ -27,6 +27,8 @@
 ## Gitee
 - Gitee: [@RapidTeam](https://gitee.com/rapidteam)
 
-- 感谢您对Rapid Team的支持！
+<br/>
+<br/>
+感谢您对Rapid Team的支持！
 
-- Thank you for your support of Rapid Team! （This snippet was translated locally using Microsoft Translator）
+Thank you for your support of Rapid Team! （This snippet was translated locally using Microsoft Translator）
